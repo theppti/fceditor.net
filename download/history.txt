@@ -1,0 +1,110 @@
+FCEditor history.
+Web: http:\\www.fceditor.com
+
+23/04/2011 2.2.3.485
+* Fixed show DOS-code text in flowchart
+* New install system
+
+07/04/2011 2.2.2.472
+* Added label "Yes" and "No" to ifelse nodes 
+(You can configurate if at Preferences dialog)
+
+14/01/2011 2.2.1.451
+* select coding imported source code
+* preffered coding in settings
+* parse error fixed
+
+16/12/2010 2.2.1.450
+* special for Sherman
+* fix setup mistakes
+
+24/09/2010 2.2.0.446
+* tool bar added
+
+16/09/2010 2.2.0.400
+* enhanced aplication loader
+* setup changed
+* default language is english now
+* fixed bug with saving fce file
+
+26/05/2010 2.1.0.344
+* import pascal units correctly
++ the start page is added
+
+26/05/2010 2.1.0.313
++ many examples (see parse\examples)
+* allow to write multistring text in block
+* parse a pascal unit
+* fix parse including if if if
+* minor bugs
+
+19/05/2010 2.1.0.300
++ enhanced parser speed
++ the ability to open all flowcharts after parse
+
+16/05/2010 2.1.0.290
++ export all flowcharts to files
++ export the opened flowchart to clipboard as image
+
+02/05/2010 2.1.0.272
++ code the editor with syntax coloring and line numering
++ customize header and footer flowchart (begin & end)
+* background color not filled in exported flowchart
+
+27/04/2010 2.1.0.264
++ zoom
+* error reading registry during the first application start
+
+22/04/2010 2.1.0.253
++ localization
++ registration system as PC hash
++ security watermark
++ registration *.fce files in OS
+* simple fix
+
+26/03/2010 2.1.0.192
++ a list of the last opened\saved files
++ import from pascal:
+  error parsing string constant with russian letters.   
++ error output if failure parse.
+
+24/03/2010 2.1.0.187
++ save/load flowchart
++ saving settings in the OS registry
++ parsing Readln, Writeln is fixed
+
+14/03/2010 2.1.0.172
++ Help\About windows added
+
+13/03/2010 2.1.0.171
++ export to image file
++ enabled change flowchart type
+  auto set Write[ln] Read[ln] operator to input chart
+
+06/03/2010  
++ reading DOS coding source files
++ ledend in structure tree
+
+05/03/2010  
++ import from pascal
++ block case of (or switch on C#)
++ reparse command is added
+
+24/02/2010  
++ import from  С#
++ editing block text
+
+00/02/2010  FCEditor .NET alpha edition
++ .NET version
+
+// -----------------------------------------------
+
+07/09/2009
+* new hosting http://www.fceditor.ru
+
+2008-2010
+* holiday!
+
+16/06/2005  - 04/03/2008 
+  FCEditor 1.0 - 1.6 (билд 118)
+  Delphi version.
